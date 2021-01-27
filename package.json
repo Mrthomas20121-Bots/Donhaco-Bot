@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "By Mrthomas20121",
+  "main": "bot.js",
+  "scripts": {
+    "test": "Error"
+  },
+  "author": "Mrthomas20121",
+  "license": "ISC",
+  "dependencies": {
+    "binaries_convertions": "^1.0.0",
+    "discord.io": "^2.5.1",
+    "helper": "git+https://github.com/Mrthomas20121/discordHelper.git",
+    "nanotimer": "^0.3.15",
+    "npm": "^6.4.1",
+    "request": "^2.88.0",
+    "seed-random": "^2.2.0",
+    "winston": "^2.3.1"
+  }
+}
